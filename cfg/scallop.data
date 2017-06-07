@@ -1,0 +1,6 @@
+classes= 1
+train  = data/scallop_train.txt
+valid  = data/scallop_test.txt
+names = data/scallop.names
+backup = backup
+

@@ -1,0 +1,6 @@
+classes= 1
+train  = data/tree_train.txt
+valid  = data/tree_test.txt
+names = data/tree.names
+backup = backup
+
